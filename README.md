@@ -37,7 +37,7 @@ A rewrite of [oraxen/polymath](https://github.com/oraxen/polymath) in typescript
   }
   ```
 
-  Remember to [Creating SSL Certificates](https://pterodactyl.io/tutorials/creating_ssl_certificates.html)
+  Remember to [Creating SSL Certificates](https://pterodactyl.io/tutorials/creating_ssl_certificates.html).
 
 ### Using Public Atlas
 
@@ -49,7 +49,7 @@ Pack:
     enabled: true
     type: polymath
     polymath:
-      server: atlas.reforged.world
+      server: atlas.arknesia.com
       secret: ChangeThisUsingYourUniqueId
 ```
 
