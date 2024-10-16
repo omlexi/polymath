@@ -17,7 +17,7 @@ app.use(fileUpload());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.post("/upload", async (req, res) => {
+app.post("/upload", async (req: any, res: any) => {
     const id = req.body.id as string;
     const pack = req.files?.pack as fileUpload.UploadedFile;
 
@@ -43,7 +43,7 @@ app.post("/upload", async (req, res) => {
     });
 });
 
-app.get("/pack.zip", async (req, res) => {
+app.get("/pack.zip", async (req: any, res: any) => {
     const id = req.query.id as string;
 
     if (!id) {
@@ -76,7 +76,7 @@ app.get("/pack.zip", async (req, res) => {
     }
 });
 
-app.get("/debug", (req, res) => {
+app.get("/debug", (req: any, res: any) => {
     return res.status(200).send("It seems to be working...");
 });
 
