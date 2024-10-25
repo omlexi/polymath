@@ -127,4 +127,4 @@ A rewrite of [oraxen/polymath](https://github.com/oraxen/polymath) in **TypeScri
 
 ## Support
 
-Need help? Join our community on Discord: [Discord Support](https://discord.gg/5pZMBvjVQh)
+Need help? Lets ask on Github [Discussions](https://github.com/orgs/arknesia/discussions)
