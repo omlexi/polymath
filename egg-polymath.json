@@ -5,8 +5,8 @@
         "update_url": null
     },
     "exported_at": "2024-07-24T15:02:51+07:00",
-    "name": "Polymath",
-    "author": "iamlexivale@gmail.com",
+    "name": "polymath",
+    "author": "khisabkurniawan@outlook.com",
     "description": "A rewrite of oraxen\/polymath in typescript",
     "features": null,
     "docker_images": {

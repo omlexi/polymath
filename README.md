@@ -103,7 +103,7 @@ A rewrite of [oraxen/polymath](https://github.com/oraxen/polymath) in **TypeScri
 {
   "server": {
     "port": 8181,
-    "url": "https://atlas.domain.com"
+    "url": "https://atlas.arknesia.com"
   },
   "request": {
     "maxSize": 104857600 // 100MB
@@ -127,4 +127,4 @@ A rewrite of [oraxen/polymath](https://github.com/oraxen/polymath) in **TypeScri
 
 ## Support
 
-Need help? Lets ask on Github [Discussions](https://github.com/orgs/arknesia/discussions)
+Need help? Lets ask on Github [Issues](https://github.com/khisabkurniawan/polymath/issues)

@@ -25,7 +25,7 @@ export default class Config {
     } = {
         server: {
             port: 8181,
-            url: "https://atlas.domain.com"
+            url: "https://atlas.arknesia.com"
         },
         request: {
             maxSize: 1024 * 1024 * 100 // 100MB

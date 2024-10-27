@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Gart",
   "contributors": [
-    "Lexivale"
+    "Khisab Kurniawan"
   ],
   "license": "MIT",
   "dependencies": {
@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/express": "^5.0.0",
     "@types/express-fileupload": "^1.5.1",
-    "@types/node": "^22.7.5",
+    "@types/node": "^22.8.1",
     "nodemon": "^3.1.7",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
